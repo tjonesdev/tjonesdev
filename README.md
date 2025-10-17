@@ -1,6 +1,6 @@
-### Hi there 👋
+### Heyo 👋
 
-### This page is currently under construction <3
+I'm active over at [Gitlab](https://gitlab.com/tjonesdev)!
 
 <!--
 **tjonesdev/tjonesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
